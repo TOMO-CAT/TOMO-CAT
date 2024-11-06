@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hello I'm TOMO-CAT
+<div align="center">
+<span>  </span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=TOMO-CAT" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shangyizhou&layout=compact&langs_count=8" />
+<span>  </span>
+</div>
